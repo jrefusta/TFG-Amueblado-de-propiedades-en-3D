@@ -1,4 +1,12 @@
 # TFG - Amueblado de propiedades en 3D
+| | Amueblado de propiedades en 3D |
+| ------ | ------ |
+| Student | Joan Manuel Ramos Refusta |
+| Director | Sergi Jiménez Barbé |
+| University | Universitat Politècnica de Catalunya, Facultat d'Informàtica de Barcelona |
+| Titulation | Bachelor's degree in Informatics Engineering (Mention in Computation) |
+| Lecture date | 30th of June 2021 |
+| Grade | **9.2** |
 
 ## Furnishing propieties in 3D
   
